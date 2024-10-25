@@ -3,7 +3,6 @@
     <style name="Base.Theme.WhatsTodoApp" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-        <item name="android:fontFamily">@font/inter_medium</item>
     </style>
 
     <style name="Theme.WhatsTodoApp" parent="Base.Theme.WhatsTodoApp" />
